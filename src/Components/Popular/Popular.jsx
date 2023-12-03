@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
+import "./Populsr.css";
+
 
 const Popular = () => {
   return (
-    <div>
+    <div className='popular'>
       
     </div>
   )
