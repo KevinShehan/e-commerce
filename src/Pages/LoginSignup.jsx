@@ -2,8 +2,10 @@ import React from 'react'
 
 const LoginSignup = () => {
   return (
-    <div>
-      
+    <div className='loginsignup'>
+      <div className="loginsignup-container">
+        
+      </div>
     </div>
   )
 }
